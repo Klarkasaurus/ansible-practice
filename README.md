@@ -22,3 +22,11 @@
 - git config --global user-mail "klarkus@hotmail.com"
 - cat ~/.gitconfig (shows whats been added)
 - Edit README
+
+#Update on website
+
+- git status (shows in red what has been changed
+- git diff (shows the difference)
+- git add README.md (updates it)
+- git commit -m "Updated readme file, initial commit"
+- git push origin master
