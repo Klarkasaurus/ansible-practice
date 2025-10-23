@@ -1,9 +1,6 @@
 [servers]
-
 control ansible_host=192.168.91.135 ansible_user=klarkus ansible_ssh_private_key_file~=/.ssh/ubuntu
-
 db02 ansible_host=192.168.91.136 ansible_user=klarkus ansible_ssh_private_key_file=~/.ssh/ubuntu
-
 web01 ansible_host=192.168.91.137 ansible_user=klarkus ansible_ssh_private_¬key_file=~/.ssh/ubuntu
 
 
